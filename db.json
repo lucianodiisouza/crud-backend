@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Luciano dii Souza",
+      "email": "contato@lucianodiisouza.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Camila Gostosa Ribeiro",
+      "email": "camilaribeiropro@gmail.com"
+    },
+    {
+      "name": "Bernardo Procópio",
+      "email": "bernardoprocopio@gmail.com",
+      "id": 3
+    }
+  ]
+}
